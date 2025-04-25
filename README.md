@@ -28,14 +28,14 @@ To provide data-driven recommendations for launching targeted credit card offeri
 
 - **Married customers** account for **81% of total spend**.
 - **Top categories**: Bills, Electronics, Groceries make up 22% of married customer spend.
-- **highest spending overall**:
+- **Highest spending** observed among customers
   - Age **25–34**: Salaried IT (13%), Other Salaried (11%)
   - Age **35–45**: Salaried IT (11%)
 - **Health & Wellness** spending peaks in age **35–45** (4%–3%).
 - **Travel & Entertainment** popular among:Ages 21–34: IT (7%)
 - **Top cities**: Mumbai and Delhi NCR.
 - **Highest income utilization** in **September (56%)**.
-
+  
 ---
 
 ## 💡 Credit Card Recommendations
