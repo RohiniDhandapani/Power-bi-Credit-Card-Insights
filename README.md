@@ -54,7 +54,7 @@ To provide data-driven recommendations for launching targeted credit card offeri
 
 ---
 
-## 📈 Live Dashboard
+## Live Dashboard
 Explore the interactive Power BI dashboard:  
 👉 https://app.powerbi.com/view?r=eyJrIjoiYmExMjYyYWUtMjViMC00ODcyLTk1YzUtYThmOTMzYmI1OGY1IiwidCI6ImQ5NzgxOGUyLTE1ZTgtNDFmOC04NzJmLWFkMDViMjczYjQ5YiIsImMiOjh9
 
