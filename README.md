@@ -1,6 +1,6 @@
 # Power-bi-Credit-Card-Launch-Insights
 
-## 🏦 Domain: Banking | 🎯 Function: Strategy
+## Domain: Banking | Function: Strategy
 
 This project simulates a real-world pilot analysis for Mitron Bank, a legacy financial institution headquartered in Hyderabad. The bank aimed to launch a new line of credit cards and provided a sample dataset of 4000 customers across five cities to evaluate customer spending behavior and guide strategic product planning.
 
@@ -8,7 +8,7 @@ As part of this independent data challenge, I analyzed the dataset using Power B
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 To provide data-driven recommendations for launching targeted credit card offerings by analyzing:
 - Customer segments by age, marital status, and occupation
 - Spending patterns across categories
@@ -16,7 +16,7 @@ To provide data-driven recommendations for launching targeted credit card offeri
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 - Power BI
 - Data Cleaning & Preparation
 - DAX (Calculated Measures & Columns)
@@ -24,7 +24,7 @@ To provide data-driven recommendations for launching targeted credit card offeri
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Married customers** account for **81% of total spend**.
 - **Top categories**: Bills, Electronics, Groceries make up 22% of married customer spend.
@@ -38,18 +38,18 @@ To provide data-driven recommendations for launching targeted credit card offeri
   
 ---
 
-## 💡 Credit Card Recommendations
+## Credit Card Recommendations
 
-- **🛍️ Cashback Essentials Card**  
+- **Cashback Essentials Card ** 
   For age 25–34 salaried & freelance users; focused on bills, groceries, electronics.
 
-- **🏡 Family Saver Card**  
+- **Family Saver Card**  
   For age 35–45 IT professionals; rewards on groceries, utilities, electronics.
 
-- **💚 Wellness & Care Card**  
+- **Wellness & Care Card **
   For age 35–45; benefits on health, wellness, and diagnostics.
 
-- **🎉 Lifestyle Rewards Card**  
+- **Lifestyle Rewards Card **
   For age 21–34; perks on travel, food, and entertainment.
 
 ---
