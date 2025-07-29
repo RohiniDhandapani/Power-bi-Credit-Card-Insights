@@ -43,8 +43,7 @@ To provide data-driven recommendations for launching targeted credit card offeri
 - **Cashback Essentials Card** 
   For age 25–34 salaried & freelance users; focused on bills, groceries, electronics.
 
-- **Family Saver Card**  
-  For age 35–45 IT professionals; rewards on groceries, utilities, electronics.
+- **Family Saver Card**  For age 35–45 IT professionals; rewards on groceries, utilities, electronics.
 
 - **Wellness & Care Card**
   For age 35–45; benefits on health, wellness, and diagnostics.
